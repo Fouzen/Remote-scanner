@@ -1,10 +1,4 @@
 #!/bin/bash
-#######################################################################
-# Student Name: Chow Zhen Jie
-# Student Code: S29
-# Class Code: CFC090423
-# Lecturer Name: James
-#######################################################################
 
 ###  Check and install geoiplookup ###
 function check_app_geoip_installed()
